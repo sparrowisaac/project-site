@@ -1,9 +1,11 @@
 h1 {
     color: #75c3f7;
+    text-align: center;
   }
 
 .btn { 
     top:50% ;
     background-color: #21317f;
-    color:rgb(182, 217, 143)
+    color:rgb(182, 217, 143) ;
+    text-align: center;
   }
